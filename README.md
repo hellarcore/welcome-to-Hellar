@@ -24,6 +24,6 @@ https://discord.gg/4yfHvQFWRS - Hellar Developer Discord
 
 https://www.blog.hellar.io/. - Official Hellar Forum
 
-https//bitcointalk.org/index.php?topic=5465729.0 -  bitcointalk.org
+https://bitcointalk.org/index.php?topic=5465729.0 -  bitcointalk.org
 
 https://twitter.com/HellarCore - Official Hellarpay Inc. Twitter accoun
